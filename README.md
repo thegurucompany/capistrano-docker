@@ -1,5 +1,7 @@
 # Capistrano - Docker strategy deployment
 
+**NOTE:** This is an original Fork of `netguru/capistrano-docker`
+
 This gem allows you to easily deploy applications based on Docker images. It allows you to deploy apps two ways:
 
     1. Using default docker strategy (build, run etc)
